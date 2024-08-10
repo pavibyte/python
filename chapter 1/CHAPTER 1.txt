@@ -1,0 +1,12 @@
+CHAPTER 1 DOWNLOAD AND INSTALL OF PYCHARM
+
+STEP1: Download the community edition PyCharm for Windows.
+STEP 2: Double-click and install.
+STEP 3: Adjust the destination folder according to the available memory.
+STEP 4: Then click on install.
+Step 5: Open the PyCharm application.
+STEP 6: Click new project.
+STEP 7: give the project's name, choose a location, and click the latest version of Python.
+STEP 8: You will find the Create button on the bottom left. click it
+STEP 9: You will find the project created on the left of the window.
+STEP10: click on the project and you can see the sample program.
