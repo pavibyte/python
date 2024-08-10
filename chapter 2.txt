@@ -1,0 +1,23 @@
+CHAPTER 2 PYTHON BASICS
+
+VARIABLES:
+
+     can be made up of letters, numbers, or a mixture of two.
+     can contain an underscore but must start with the alphabet not even a number.
+     python keywords cannot be used as a variable.
+     Special symbols cannot be used for variable names.
+
+VALUES:
+     
+     values are held by the variable.
+
+EXAMPLE: name_001="Pavithra"
+         variable=value
+
+EXPRESSION: E.g.:2+2
+STRING: collection of character
+        always surrounded by quotations. 
+        e.g.: "Pavithra"
+
+
+  
