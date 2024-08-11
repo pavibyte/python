@@ -1,1 +1,28 @@
+CHAPTER 3 OPERATORS
+
+DEFINITION:
+   
+     Symbols perform operations on values and the variables that hold those values.
+
+ASSIGNMENT OPERATOR: =
+
+ARITHMETIC OPERATOR: + ,-,*,/,//,%
+                     /(returns the quotient values with the decimal point)
+                     //(returns the quotient value without the decimal, only the whole number)
+                     %(returns the remainder)
+                     **(exponential)
+NOTE: TO ROUND OFF THE VALUE USE THE FUNCTION round()
+      "+" IS ALSO USED TO CONCATENATE TWO STRINGS.
+
+COMPOUND ASSIGNMENT OPERATOR:+=,-=,/=,*=
+
+COMPARISON OPERATOR: ==,!=,>,>=,<,<= (returns a Boolean true or false)
+
+LOGICAL OPERATOR: and(any one value is false then false)
+                   or(any one value is true then true)
+                  not(opposite of the given)
+
+TERNARY OPERATOR: print("true") if condition else print("false)
+EXAMPLE:a=80
+        print("right") if a>10 else print("false")
 
