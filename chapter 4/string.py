@@ -45,6 +45,12 @@ print(len(statement))              #50
 print(statement.strip())           #removes the unnecessary space but the output is not printed
 print(len(statement.strip()))      #33
 
+# string indexing
+first=cake
+print(first[1])               #a
+print(first[-2])              #k
+print(first[1:-1])            #ak
+print(first[1:])              #ake
 
 
 
