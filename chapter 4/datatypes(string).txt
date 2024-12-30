@@ -1,0 +1,13 @@
+STRING: 
+         Sequence of characters enclosed by quotation.
+         It can a numbers,letter,symbols and even whitespace.
+
+keyword: str
+
+2 ways to assign string: literal assignment
+                         constructor function
+                        
+method to find the data type: type(variable name)
+                              type(variable name) == str [returns boolean value]
+                              isinstance(variable name,str)
+          
